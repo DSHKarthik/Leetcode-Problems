@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/karthik007-coder/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/karthik007-coder/Leetcode-Problems/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/karthik007-coder/Leetcode-Problems/tree/master/0059-spiral-matrix-ii) |
 | [0164-maximum-gap](https://github.com/karthik007-coder/Leetcode-Problems/tree/master/0164-maximum-gap) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/karthik007-coder/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
 | [0283-move-zeroes](https://github.com/karthik007-coder/Leetcode-Problems/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/karthik007-coder/Leetcode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
@@ -55,4 +57,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/karthik007-coder/Leetcode-Problems/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/karthik007-coder/Leetcode-Problems/tree/master/0059-spiral-matrix-ii) |
 | [0885-spiral-matrix-iii](https://github.com/karthik007-coder/Leetcode-Problems/tree/master/0885-spiral-matrix-iii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/karthik007-coder/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/karthik007-coder/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/karthik007-coder/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
