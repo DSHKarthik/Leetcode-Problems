@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/karthik007-coder/Leetcode-Problems/tree/master/0059-spiral-matrix-ii) |
 | [0164-maximum-gap](https://github.com/karthik007-coder/Leetcode-Problems/tree/master/0164-maximum-gap) |
 | [0283-move-zeroes](https://github.com/karthik007-coder/Leetcode-Problems/tree/master/0283-move-zeroes) |
+| [0885-spiral-matrix-iii](https://github.com/karthik007-coder/Leetcode-Problems/tree/master/0885-spiral-matrix-iii) |
 | [0977-squares-of-a-sorted-array](https://github.com/karthik007-coder/Leetcode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/karthik007-coder/Leetcode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/karthik007-coder/Leetcode-Problems/tree/master/1480-running-sum-of-1d-array) |
@@ -45,8 +46,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/karthik007-coder/Leetcode-Problems/tree/master/0059-spiral-matrix-ii) |
+| [0885-spiral-matrix-iii](https://github.com/karthik007-coder/Leetcode-Problems/tree/master/0885-spiral-matrix-iii) |
 ## Simulation
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/karthik007-coder/Leetcode-Problems/tree/master/0059-spiral-matrix-ii) |
+| [0885-spiral-matrix-iii](https://github.com/karthik007-coder/Leetcode-Problems/tree/master/0885-spiral-matrix-iii) |
 <!---LeetCode Topics End-->
