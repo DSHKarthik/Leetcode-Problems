@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/karthik007-coder/Leetcode-Problems/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/karthik007-coder/Leetcode-Problems/tree/master/0059-spiral-matrix-ii) |
 | [0164-maximum-gap](https://github.com/karthik007-coder/Leetcode-Problems/tree/master/0164-maximum-gap) |
 | [0283-move-zeroes](https://github.com/karthik007-coder/Leetcode-Problems/tree/master/0283-move-zeroes) |
@@ -45,11 +46,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/karthik007-coder/Leetcode-Problems/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/karthik007-coder/Leetcode-Problems/tree/master/0059-spiral-matrix-ii) |
 | [0885-spiral-matrix-iii](https://github.com/karthik007-coder/Leetcode-Problems/tree/master/0885-spiral-matrix-iii) |
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/karthik007-coder/Leetcode-Problems/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/karthik007-coder/Leetcode-Problems/tree/master/0059-spiral-matrix-ii) |
 | [0885-spiral-matrix-iii](https://github.com/karthik007-coder/Leetcode-Problems/tree/master/0885-spiral-matrix-iii) |
 <!---LeetCode Topics End-->
