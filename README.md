@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/karthik007-coder/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/karthik007-coder/Leetcode-Problems/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/karthik007-coder/Leetcode-Problems/tree/master/0059-spiral-matrix-ii) |
+| [0136-single-number](https://github.com/karthik007-coder/Leetcode-Problems/tree/master/0136-single-number) |
 | [0164-maximum-gap](https://github.com/karthik007-coder/Leetcode-Problems/tree/master/0164-maximum-gap) |
 | [0283-move-zeroes](https://github.com/karthik007-coder/Leetcode-Problems/tree/master/0283-move-zeroes) |
 | [0885-spiral-matrix-iii](https://github.com/karthik007-coder/Leetcode-Problems/tree/master/0885-spiral-matrix-iii) |
@@ -69,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/karthik007-coder/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/karthik007-coder/Leetcode-Problems/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
