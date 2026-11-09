@@ -74,4 +74,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/karthik007-coder/Leetcode-Problems/tree/master/0136-single-number) |
+| [0693-binary-number-with-alternating-bits](https://github.com/karthik007-coder/Leetcode-Problems/tree/master/0693-binary-number-with-alternating-bits) |
 <!---LeetCode Topics End-->
