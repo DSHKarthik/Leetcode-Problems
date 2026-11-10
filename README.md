@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/karthik007-coder/Leetcode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/karthik007-coder/Leetcode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/karthik007-coder/Leetcode-Problems/tree/master/1480-running-sum-of-1d-array) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/karthik007-coder/Leetcode-Problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Two Pointers
 |  |
 | ------- |
@@ -75,4 +76,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/karthik007-coder/Leetcode-Problems/tree/master/0136-single-number) |
 | [0693-binary-number-with-alternating-bits](https://github.com/karthik007-coder/Leetcode-Problems/tree/master/0693-binary-number-with-alternating-bits) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/karthik007-coder/Leetcode-Problems/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Math
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/karthik007-coder/Leetcode-Problems/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Backtracking
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/karthik007-coder/Leetcode-Problems/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Combinatorics
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/karthik007-coder/Leetcode-Problems/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Enumeration
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/karthik007-coder/Leetcode-Problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
