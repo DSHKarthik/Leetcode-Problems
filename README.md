@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0470-implement-rand10-using-rand7](https://github.com/karthik007-coder/Leetcode-Problems/tree/master/0470-implement-rand10-using-rand7) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/karthik007-coder/Leetcode-Problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Backtracking
 |  |
@@ -93,4 +94,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/karthik007-coder/Leetcode-Problems/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Rejection Sampling
+|  |
+| ------- |
+| [0470-implement-rand10-using-rand7](https://github.com/karthik007-coder/Leetcode-Problems/tree/master/0470-implement-rand10-using-rand7) |
+## Randomized
+|  |
+| ------- |
+| [0470-implement-rand10-using-rand7](https://github.com/karthik007-coder/Leetcode-Problems/tree/master/0470-implement-rand10-using-rand7) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0470-implement-rand10-using-rand7](https://github.com/karthik007-coder/Leetcode-Problems/tree/master/0470-implement-rand10-using-rand7) |
 <!---LeetCode Topics End-->
